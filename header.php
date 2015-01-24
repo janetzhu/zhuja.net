@@ -12,7 +12,7 @@ HEADER FILE
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style-main.css">
   <link href='http://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 
   <link rel="shortcut icon" href="/favicon.ico?1234" type="image/ico" />
   <link rel="icon" href="/favicon.ico?1234" type="image/ico" />

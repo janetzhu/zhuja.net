@@ -269,7 +269,6 @@ section {
 	width: 100%;
 	margin: 0 auto;
 	margin-top: 25px;
-	/* padding-left: 10px; */
 	padding: 0;
 }
 
@@ -294,13 +293,12 @@ article {
 .article-header {
 	font-size: 20px;
 	color: #884e4d;
-	font-weight: bold;
+	font-weight: 700;
 }
 
 .date-loc {
 	float: right;
 	color: #888;
-	margin-right: 20px;
 	font-size: 15px;
 	padding: 0px;
 	line-height: 22px;
