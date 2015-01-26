@@ -14,8 +14,8 @@ HEADER FILE
   <link href='http://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 
-  <link rel="shortcut icon" href="/favicon.ico?1234" type="image/ico" />
-  <link rel="icon" href="/favicon.ico?1234" type="image/ico" />
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
+  <link rel="icon" href="img/favicon.ico" type="image/ico" />
 </head>
 
 <body>
@@ -29,7 +29,7 @@ HEADER FILE
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#"><img src="/zhujanet-purple-bg.gif"></a>
+        <a class="navbar-brand" href="#"><img src="img/zhujanet-purple-bg.gif"></a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">

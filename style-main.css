@@ -130,7 +130,7 @@ body {
 	text-align: center;
 
 	/*background-color: #856765;*/
-	background: url('/welcome-bg.jpg');
+	background: url('img/welcome-bg.jpg');
 	background-position: center center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;

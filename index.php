@@ -8,11 +8,11 @@
                 <span>DEVELOPER&nbsp;&nbsp;|&nbsp;&nbsp;DESIGNER&nbsp;&nbsp;|&nbsp;&nbsp;DREAMER</span>
             </span>
             <a class="down-btn" href="#feature">
-                <img class="arrow" src="/arrow-down.svg">
+                <img class="arrow" src="img/arrow-down.svg">
             </a>
         </div>
         <div id="feature" class="row">
-        	<img class="headshot" src="feature-small.png">
+        	<img class="headshot" src="img/feature-small.png">
         </div>
         <div id="greeting">
             Hi, I'm Janet
