@@ -35,6 +35,14 @@
                     <h5>Computer Science, B.S.</h5>
                     Programming with a focus on C++ and Java. Specialized coursework include Network Security, Introduction to Databases, Artificial Intelligence and Data Science.
                 </article>
+                <article>
+                    <h4 class="article-header">
+                        Montgomery Blair High School
+                        <div class="date-loc">Silver Spring, MD<br>2007-2011</div>
+                    </h4>
+                    <h5>Science, Mathematics, and Computer Science Magnet Program</h5>
+                    Magnet program offered accelerated courses in interdisciplinary courses for highly able students. Specialized coursework included Data Structures & Algorithms, Graphics, 3D Graphics, Quantum Physics, Thermodynamics, and Biochemistry.
+                </article>
             </section>
         </div>
 
