@@ -69,7 +69,7 @@
                             <div class="date-loc">Washington, DC<br>2014-2015</div>
                         </h4>
                         <h5>Director of Technology</h5>
-                        Directed a team of managers and assistants in feature implementation and maintenance of the <a href="http://thehoya.com" target="_blank">website</a>, as well as management of the office computers, the network infrastructure, and the local server</a>.
+                        Directed a team of managers and assistants in feature implementation and maintenance of the <a href="http://thehoya.com" target="_blank">website</a>, as well as management of the office computers, network infrastructure, and local server</a>.
                     </article>
                 </section>
             </div>
