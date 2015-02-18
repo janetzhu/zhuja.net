@@ -252,24 +252,6 @@ body {
 	height: auto;
 }
 
-/* MAP */
-
-#mapbox-map {
-	margin-top: 50px;
-	padding: 10px;
-	border: 2px #884e4d dashed;
-}
-
-.overlay {
-   background:transparent; 
-   position:relative; 
-   width: 100%;
-   height: 520px; /* iframe height */
-   top: 570px;
-   margin-top: -520px;
-   padding: 20px;
-}
-
 
 /* small screens */
 @media screen and (max-width: 768px) {
@@ -294,6 +276,29 @@ body {
 		font-size: 20px;
 		letter-spacing: 3.5px;
 	}
+}
+
+/* PORTFOLIO */
+#portfolio p {
+	margin-top: 50px;
+}
+
+/* MAP */
+
+#mapbox-map {
+	margin-top: 50px;
+	padding: 10px;
+	border: 2px #884e4d dashed;
+}
+
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width: 100%;
+   height: 520px; /* iframe height */
+   top: 570px;
+   margin-top: -520px;
+   padding: 20px;
 }
 
 /* FORMATTING TABLES */
