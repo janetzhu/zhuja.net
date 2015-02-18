@@ -25,53 +25,59 @@
 
     	<div id="about" class="row info-box">
         	<h1 class="cursive">About</h1>
-        	<section id="education">
-                <aside><h4>EDUCATION</h4></aside>
-                <article>
-                    <h4 class="article-header">
-                        Georgetown University
-                        <div class="date-loc">Washington, DC<br>2011-2015</div>
-                    </h4>
-                    <h5>Computer Science, B.S.</h5>
-                    Programming with a focus on C++ and Java. Specialized coursework include Network Security, Introduction to Databases, Artificial Intelligence and Data Science.
-                </article>
-                <article>
-                    <h4 class="article-header">
-                        Montgomery Blair High School
-                        <div class="date-loc">Silver Spring, MD<br>2007-2011</div>
-                    </h4>
-                    <h5>Science, Mathematics, and Computer Science Magnet Program</h5>
-                    Magnet program offered accelerated courses in interdisciplinary courses for highly able students. Specialized coursework included Data Structures & Algorithms, Graphics, 3D Graphics, Quantum Physics, Thermodynamics, and Biochemistry.
-                </article>
-            </section>
-        </div>
-
-    	<div id="experience" class="row info-box">
-        	<h1 class="cursive">Experience</h1>
-        	<section id="experience">
-                <aside><h4>WORK</h4></aside>
-                <article>
-                    <h4 class="article-header">
-                        Amazon.com
-                        <div class="date-loc">Seattle, WA<br>Summer 2014</div>
-                    </h4>
-                    <h5>Software Development Engineer Intern</h5>
-                    Worked on the Search Experience Mobile team. Project involved manipulating product titles to improve appearance on mobile devices.
-                </article>
-                <article>
-                    <h4 class="article-header">
-                        National Center for Student Success
-                        <div class="date-loc">Washington, DC<br>2013-2015</div>
-                    </h4>
-                    <h5>Web Developer</h5>
-                    Helped create <a href="http://altstudentsuccess.com" target="_blank">website</a>.
-                </article>
-            </section>
+            <div class="center-me">
+            	<section id="education">
+                    <aside><h4>EDUCATION</h4></aside>
+                    <article>
+                        <h4 class="article-header">
+                            Georgetown University
+                            <div class="date-loc">Washington, DC<br>2011-2015</div>
+                        </h4>
+                        <h5>Computer Science, B.S.</h5>
+                        Programming with a focus on C++ and Java. Specialized coursework include Network Security, Introduction to Databases, Artificial Intelligence and Data Science. In the process of completing a senior thesis on social media privacy.
+                    </article>
+                    <!-- <article>
+                        <h4 class="article-header">
+                            Montgomery Blair High School
+                            <div class="date-loc">Silver Spring, MD<br>2007-2011</div>
+                        </h4>
+                        <h5>Science, Mathematics, and Computer Science Magnet Program</h5>
+                        Magnet program offered accelerated courses in interdisciplinary courses for highly able students. Specialized coursework included Data Structures & Algorithms, Graphics, 3D Graphics, Quantum Physics, Thermodynamics, and Biochemistry.
+                    </article> -->
+                </section>
+                <section id="experience">
+                    <aside><h4>EXPERIENCE</h4></aside>
+                    <article>
+                        <h4 class="article-header">
+                            Amazon.com
+                            <div class="date-loc">Seattle, WA<br>Summer 2014</div>
+                        </h4>
+                        <h5>Software Development Engineer Intern</h5>
+                        Worked on the Search Experience Mobile team. Project involved manipulating product titles to improve appearance on mobile devices.
+                    </article>
+                    <article>
+                        <h4 class="article-header">
+                            National Center for Student Success
+                            <div class="date-loc">Washington, DC<br>2013-2015</div>
+                        </h4>
+                        <h5>Web Developer</h5>
+                        Creator and manager of the company <a href="http://altstudentsuccess.com" target="_blank">website</a>. Also helped with operational tasks involved in starting a company.
+                    </article>
+                    <article>
+                        <h4 class="article-header">
+                            The Hoya
+                            <div class="date-loc">Washington, DC<br>2014-2015</div>
+                        </h4>
+                        <h5>Director of Technology</h5>
+                        Directed a team of managers and assistants in feature implementation and maintenance of the <a href="http://thehoya.com" target="_blank">website</a>, as well as management of the office computers, the network infrastructure, and the local server</a>.
+                    </article>
+                </section>
+            </div>
         </div>
 
         <div id="portfolio" class="row info-box">
             <h1 class="cursive">Portfolio</h1>
-            <p>Look at some pretty things I made.</p>
+            <p>Coming soon.</p>
         </div>
 
         <div id="map" class="row info-box">
@@ -84,7 +90,7 @@
 
     	<div id="contact" class="row info-box">
         	<h1 class="cursive">Contact</h1>
-        	<p>e-mail: janet@zhuja.net</p>
+        	<p><a href="mailto:janet@zhuja.net">E-MAIL</a>&nbsp;&nbsp;&nbsp;JANET@ZHUJA.NET&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://linkedin.com/in/janetzhu" target="_blank">LINKEDIN</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;WASHINGTON, DC</p>
         </div>
     </div>
 	

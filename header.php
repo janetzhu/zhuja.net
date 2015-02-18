@@ -35,7 +35,6 @@ HEADER FILE
         <ul class="nav navbar-nav">
           <li class="active"><a href="#">home</a></li>
           <li><a href="#about">about</a></li>
-          <li><a href="#experience">experience</a></li>
           <li><a href="#portfolio">portfolio</a></li>
           <li><a href="#map">map</a></li>
           <li><a href="#contact">contact</a></li>

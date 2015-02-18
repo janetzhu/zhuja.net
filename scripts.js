@@ -56,15 +56,30 @@ $(window).scroll(function(){
   if(id === "")
     $(".navbar-inverse").css("background-color", "rgba(255,255,255,0)");
 
-   if (lastId !== id) {
-       lastId = id;
-       // Set/remove active class
-       menuItems
-         .parent().removeClass("active")
-         .end().filter("[href=#" + id + "]").parent().addClass("active");
-   }                   
-});
+  if (lastId !== id) {
+    lastId = id;
+    // Set/remove active class
+    menuItems
+      .parent().removeClass("active")
+      .end().filter("[href=#" + id + "]").parent().addClass("active");
+  }
 
+  // Switch active to "contact" tab when at end of page
+  $(window).scroll(function() {   
+    if($(window).scrollTop() + $(window).height() == $(document).height()) {
+      menuItems
+        .parent().removeClass("active")
+        .end().filter("[href=#contact]").parent().addClass("active");
+    }
+    else {
+      if(menuItems.filter("[href=#contact]").parent().hasClass("active")) {
+        menuItems
+          .parent().removeClass("active")
+          .end().filter("[href=#map]").parent().addClass("active");
+      }
+    }
+  });          
+});
 
 //remove map overlay on click
 
