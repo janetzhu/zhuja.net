@@ -32,7 +32,7 @@ body {
 .info-box {
 	display: inline-block;
 	width: 100%;
-	padding: 500px 5%;
+	padding: 100px 5%;
 	text-align: center;
 
 }
@@ -48,6 +48,13 @@ body {
 .info-box:nth-child(even) h1 { 
 	color: #884e4d; 
 }
+.info-box:nth-child(odd) h4 { 
+	color: #884e4d;
+}
+.info-box:nth-child(even) h4 { 
+	color: #5d4b65; 
+}
+
 .cursive {
 	font-family: 'Homemade Apple', cursive;
 }
@@ -215,6 +222,7 @@ body {
 	color: #fff;
 	background-color: #4d363c; /*#856765;*/
 	padding: 120px 10% 50px;
+	margin-top: 1px;
 	text-align: center;
 }
 #bio p {
@@ -230,9 +238,27 @@ body {
 	overflow: hidden;
 }
 .headshot {
-	padding: 25px 0 0;
+	padding: 32px 0 0px;
 	max-width: 100%;
 	height: auto;
+}
+
+/* MAP */
+
+#mapbox-map {
+	margin-top: 50px;
+	padding: 10px;
+	border: 2px #884e4d dashed;
+}
+
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width: 100%;
+   height: 500px; /* iframe height */
+   top: 550px;
+   margin-top: -500px;
+   padding: 20px;
 }
 
 
@@ -286,6 +312,9 @@ aside {
 	line-height: 15px;
 	letter-spacing: 1.3px;
 	text-shadow: 0 0 10px rgba(0,0,0,2.0);
+}
+aside h4 {
+	color: #fff !important;
 }
 article {
 	float: right;

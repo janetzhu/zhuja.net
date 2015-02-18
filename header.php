@@ -37,6 +37,7 @@ HEADER FILE
           <li><a href="#about">about</a></li>
           <li><a href="#experience">experience</a></li>
           <li><a href="#portfolio">portfolio</a></li>
+          <li><a href="#map">map</a></li>
           <li><a href="#contact">contact</a></li>
         </ul>
       </div><!--/.nav-collapse -->

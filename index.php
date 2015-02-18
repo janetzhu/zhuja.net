@@ -48,7 +48,25 @@
 
     	<div id="experience" class="row info-box">
         	<h1 class="cursive">Experience</h1>
-        	<p>I do stuff sometimes.</p>
+        	<section id="experience">
+                <aside><h4>WORK</h4></aside>
+                <article>
+                    <h4 class="article-header">
+                        Amazon.com
+                        <div class="date-loc">Seattle, WA<br>Summer 2014</div>
+                    </h4>
+                    <h5>Software Development Engineer Intern</h5>
+                    Worked on the Search Experience Mobile team. Project involved manipulating product titles to improve appearance on mobile devices.
+                </article>
+                <article>
+                    <h4 class="article-header">
+                        National Center for Student Success
+                        <div class="date-loc">Washington, DC<br>2013-2015</div>
+                    </h4>
+                    <h5>Web Developer</h5>
+                    Helped create <a href="http://altstudentsuccess.com" target="_blank">website</a>.
+                </article>
+            </section>
         </div>
 
         <div id="portfolio" class="row info-box">
@@ -56,9 +74,17 @@
             <p>Look at some pretty things I made.</p>
         </div>
 
+        <div id="map" class="row info-box">
+            <h1 class="cursive">Follow Me</h1>
+            <div class="overlay">click to interact with map</div>
+            <div id="mapbox-map">
+                <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/janetzoo.l88niphk/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiamFuZXR6b28iLCJhIjoiVHotVWhndyJ9.2tfc6cagHZvrhy5oH2nwhA'></iframe>
+            </div>
+        </div>
+
     	<div id="contact" class="row info-box">
         	<h1 class="cursive">Contact</h1>
-        	<p>e-mail: janetzhuzhu@gmail.com</p>
+        	<p>e-mail: janet@zhuja.net</p>
         </div>
     </div>
 	

@@ -64,3 +64,13 @@ $(window).scroll(function(){
          .end().filter("[href=#" + id + "]").parent().addClass("active");
    }                   
 });
+
+
+//remove map overlay on click
+
+var mapOverlay = $(".overlay");
+
+mapOverlay.click(function(e){
+  $(this).text("");
+  $(this).css("pointer-events", "none");
+});
